@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-16",
+  "note": "Monday settlements and CME initial / maintenance margins from the Barchart quote pages. Update each week before running weekly_hedge.py.",
+  "front": "Z26",
+  "next": "H27",
+  "markets": {
+    "NQ": {"front": 27284.25, "next": 27589.00, "initial_margin": 46161, "maintenance_margin": 41965},
+    "ES": {"front": 7439.00, "next": 7511.25, "initial_margin": 29297, "maintenance_margin": 26634},
+    "RTY": {"front": 2751.40, "next": 2774.70, "initial_margin": 12387, "maintenance_margin": 11261},
+    "YM": {"front": 51670, "next": 52133, "initial_margin": 17561, "maintenance_margin": 15391}
+  }
+}
